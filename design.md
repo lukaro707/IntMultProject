@@ -16,3 +16,5 @@ The game's basic premise is that the player is a cannon operator, tasked with de
 - Failure State: The player should have a limited number of lives. Whenever a snowball rolls past the player, they should lose a life, and they fail upon loss of all lives.
 
 - Success State: Unsure of exactly what'd be the best sucess state, considering either surviving for a sufficient period of time, or hitting a yeti directly with a snowball.
+
+## Visual Mock-Up:
