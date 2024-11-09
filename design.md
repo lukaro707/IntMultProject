@@ -18,3 +18,4 @@ The game's basic premise is that the player is a cannon operator, tasked with de
 - Success State: Unsure of exactly what'd be the best sucess state, considering either surviving for a sufficient period of time, or hitting a yeti directly with a snowball.
 
 ## Visual Mock-Up:
+!()[https://github.com/lukaro707/IntMultProject/blob/main/mockup.png?raw=true]
