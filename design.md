@@ -17,7 +17,7 @@ The game's basic premise is that the player is a cannon operator, tasked with de
 
 - Success State: Unsure of exactly what'd be the best sucess state, considering either surviving for a sufficient period of time, or hitting a yeti directly with a snowball.
 
-- Camera: The camera view of the game should be a top-down view with an isometric perspective
+- Camera: The camera view of the game should be a top-down view with an isometric perspective (orthographic projection)
 
 ## Visual Mock-Up:
 ![](https://github.com/lukaro707/IntMultProject/blob/main/mockup.png?raw=true)
