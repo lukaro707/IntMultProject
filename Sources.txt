@@ -13,3 +13,9 @@ https://docs.unity3d.com/6000.0/Documentation/Manual/mesh-colliders-introduction
 
 Scripting References:
 https://docs.unity3d.com/ScriptReference/Object.Instantiate.html
+https://docs.unity3d.com/ScriptReference/Random.html
+file:///C:/Program%20Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Documentation/en/Manual/class-SphereCollider.html
+https://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html
+https://discussions.unity.com/t/freeze-rigidbody-position-in-script/110627
+https://docs.unity3d.com/ScriptReference/RigidbodyConstraints.html
+https://learn.unity.com/tutorial/onmousedown#6360ab89edbc2a44235c2ba9

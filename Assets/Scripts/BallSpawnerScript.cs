@@ -5,6 +5,7 @@ using UnityEngine;
 public class BallSpawnerScript : MonoBehaviour
 {
     public GameObject snowBallPrefab;
+    public GameObject bombPrefab;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +20,14 @@ public class BallSpawnerScript : MonoBehaviour
 
     void spawnBall()
     {
-        Instantiate(snowBallPrefab, new Vector3(Random.Range(transform.position.x - transform.lossyScale.x/2 , transform.position.x + transform.lossyScale.x / 2), transform.position.y, transform.position.z), Quaternion.identity);
+        GameObject spawn;
+        if(Random.value <= 0.2)
+        {
+            spawn = bombPrefab;
+        } else
+        {
+            spawn = snowBallPrefab;
+        }
+        Instantiate(spawn, new Vector3(Random.Range(transform.position.x - transform.lossyScale.x/2 , transform.position.x + transform.lossyScale.x / 2), transform.position.y, transform.position.z), Quaternion.identity);
     }
 }
